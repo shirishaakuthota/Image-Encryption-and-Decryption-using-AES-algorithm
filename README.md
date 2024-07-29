@@ -6,5 +6,6 @@ Image Decryption: Decrypt images using the secret key and the generated visual s
 Secure Storage: Encrypted images are stored securely, ensuring data privacy.
 Cross-Platform: Compatible with Windows, Linux, and MacOS.
 
-Python 3.11 or above
+Python 3.11 
+
 Libraries: Pillow, NumPy, PyCryptodome, Tkinter
